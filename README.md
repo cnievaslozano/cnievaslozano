@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **tamagotchi-terminal**
 
-- 🌱 I’m currently learning **Python, Java, Laravel, Javascript, Flask**
+- 🌱 I’m currently learning **Python, Java, Laravel, Javascript, Flaskk, Git**
 
 - 👨‍💻 All of my projects are available at [cnievaslozano.dev](cnievaslozano.dev)
 
