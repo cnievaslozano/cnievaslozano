@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristian David Nievas Lozano</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on tamagotchi-terminal<br><br>🌱 I’m currently learning Python, Java, Laravel, Javascript, Flaskk, Git<br><br>👨‍💻 All of my projects are available at cnievaslozano.dev<br><br>📝 I regularly write articles on cnievaslozano.dev/blog<br><br>💬 Ask me about my passions Music🎶, Arts🎨, Videogames🎮 and Fashion🕶️<br><br>📫 How to reach me cnievaslozano@gmail.com<br><br>📄 Know about my CV cnievaslozano.dev/cv.pdf<br><br>⚡ Fun fact I think I am funny
 
